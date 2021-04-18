@@ -2,7 +2,7 @@
 
 I'm a software developer with an interest in back-end work and cloud deployments. I'm still learning many things but hope to eventually put some projects here. Here are some of the skills I've gained over time along with tech I've worked with:
 
-- Python/JavaScript/C/Java
+- Python/Go/JavaScript/C/Java
 - Kubernetes/Docker
 - NodeJS/React
 - Pytest/JUnit/Selenium/Cucumber
