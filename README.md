@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**caproven/caproven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with an interest in back-end work and cloud deployments. I'm still learning many things but hope to eventually put some projects here. Here are some of the skills I've gained over time along with tech I've worked with:
 
-Here are some ideas to get you started:
+- Go/Python/JavaScript/C/Java
+- Kubernetes
+- Kubernetes Operators (operator-sdk)
+- Docker
+- NodeJS/React
+- Pytest/JUnit/Selenium/Cucumber
+- PostgreSQL/MongoDB/MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Topics I'm interested in:
+
+- CI/CD
+- TDD
+- Kubernetes application architecture
+- Database optimization
