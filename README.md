@@ -1,6 +1,8 @@
 ### Hello!
 
-I'm a software developer with an interest in back-end work and cloud deployments. Here are some of the skills I've gained over time along with tech I've worked with:
+I'm a software developer with an interest in back-end work and cloud deployments.
+
+Here are some of the skills I've gained over time along with tech I've worked with (no claims of proficiency):
 
 - Languages: Go, Python, JavaScript (NodeJS), C, Java
 - Frameworks: React, Operator SDK
@@ -9,11 +11,6 @@ I'm a software developer with an interest in back-end work and cloud deployments
 - Databases: PostgreSQL, MongoDB
 - Tools: kustomize, helm, git
 - Other: Jenkins (pipelines / Jenkinsfiles)
-
-Things I'm generally interested in:
-- Kubernetes
-- CI/CD
-- TDD
 
 Things I want to learn more about:
 - GitOps philosophy
